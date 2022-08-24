@@ -1,0 +1,10 @@
+#! bin/bash
+Name="John"
+a=6
+b=2
+echo "My name is $Name, I am $(($a-$b)) years old and `whoami`"
+date
+cal
+pwd
+
+
